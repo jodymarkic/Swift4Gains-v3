@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  Swift4Gains
+
+  Created by Student on 2017-12-03.
+  Copyright © 2017 Mad4Swift. All rights reserved.
+*/
+
+"timerLabel" = "Exercise Timer:";

@@ -1,0 +1,117 @@
+
+/* Class = "UILabel"; text = "00:00"; ObjectID = "2fw-If-7LG"; */
+"2fw-If-7LG.text" = "00:00";
+
+/* Class = "UIButton"; normalTitle = "----------Chest"; ObjectID = "5Ih-qK-egr"; */
+"5Ih-qK-egr.normalTitle" = "----------Chest";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "5ai-vj-G4G"; */
+"5ai-vj-G4G.text" = "Title";
+
+/* Class = "UINavigationItem"; title = "Gain HUB"; ObjectID = "6Fd-GG-Mvf"; */
+"6Fd-GG-Mvf.title" = "Gain HUB";
+
+/* Class = "UIButton"; normalTitle = "SET"; ObjectID = "A5x-aV-o1s"; */
+"A5x-aV-o1s.normalTitle" = "SET";
+
+/* Class = "UILabel"; text = "Exercise Timer:"; ObjectID = "ANv-en-lh8"; */
+"ANv-en-lh8.text" = "Exercise Timer:";
+
+/* Class = "UIButton"; normalTitle = "Add Exercise"; ObjectID = "C0k-5p-Ebq"; */
+"C0k-5p-Ebq.normalTitle" = "Add Exercise";
+
+/* Class = "UIButton"; normalTitle = "About"; ObjectID = "EfV-6X-lMo"; */
+"EfV-6X-lMo.normalTitle" = "About";
+
+/* Class = "UILabel"; text = "Number of Sets"; ObjectID = "Gmo-Zs-DKe"; */
+"Gmo-Zs-DKe.text" = "Number of Sets";
+
+/* Class = "UILabel"; text = "Please Select An Option:"; ObjectID = "Jxi-MC-dh8"; */
+"Jxi-MC-dh8.text" = "Please Select An Option:";
+
+/* Class = "UIButton"; normalTitle = "Begin Workout!"; ObjectID = "Kb9-Ng-iv8"; */
+"Kb9-Ng-iv8.normalTitle" = "Begin Workout!";
+
+/* Class = "UIButton"; normalTitle = "Add Exercise"; ObjectID = "Lel-UV-wfO"; */
+"Lel-UV-wfO.normalTitle" = "Add Exercise";
+
+/* Class = "UIButton"; normalTitle = "Add Workout"; ObjectID = "Mec-q3-1DY"; */
+"Mec-q3-1DY.normalTitle" = "Add Workout";
+
+/* Class = "UIButton"; normalTitle = "Edit Workouts"; ObjectID = "P62-jX-CHV"; */
+"P62-jX-CHV.normalTitle" = "Edit Workouts";
+
+/* Class = "UILabel"; text = "About"; ObjectID = "QXn-gp-0Lq"; */
+"QXn-gp-0Lq.text" = "About";
+
+/* Class = "UIButton"; normalTitle = "Select a Workout!"; ObjectID = "SE2-gA-6aX"; */
+"SE2-gA-6aX.normalTitle" = "Select a Workout!";
+
+/* Class = "UILabel"; text = "Exercise SET Tracker:"; ObjectID = "UPr-CS-7Xa"; */
+"UPr-CS-7Xa.text" = "Exercise SET Tracker:";
+
+/* Class = "UIButton"; normalTitle = "----Biceps"; ObjectID = "URn-Yi-BjE"; */
+"URn-Yi-BjE.normalTitle" = "----Biceps";
+
+/* Class = "UIButton"; normalTitle = "Edit Exercises"; ObjectID = "YIn-fL-ie3"; */
+"YIn-fL-ie3.normalTitle" = "Edit Exercises";
+
+/* Class = "UIViewController"; title = "About"; ObjectID = "Yjh-7O-xl6"; */
+"Yjh-7O-xl6.title" = "About";
+
+/* Class = "UILabel"; text = "Bench Press"; ObjectID = "ZI0-MY-6Te"; */
+"ZI0-MY-6Te.text" = "Bench Press";
+
+/* Class = "UIButton"; normalTitle = "Pause"; ObjectID = "cku-nB-1Zs"; */
+"cku-nB-1Zs.normalTitle" = "Pause";
+
+/* Class = "UIButton"; normalTitle = "Triceps---"; ObjectID = "dHh-9S-Hcg"; */
+"dHh-9S-Hcg.normalTitle" = "Triceps---";
+
+/* Class = "UIButton"; normalTitle = "INCREASE"; ObjectID = "hBQ-rR-YQe"; */
+"hBQ-rR-YQe.normalTitle" = "INCREASE";
+
+/* Class = "UILabel"; text = "Number of Sets:"; ObjectID = "hdI-2d-xI1"; */
+"hdI-2d-xI1.text" = "Number of Sets:";
+
+/* Class = "UIButton"; normalTitle = "Reset"; ObjectID = "hwT-Xb-5ew"; */
+"hwT-Xb-5ew.normalTitle" = "Reset";
+
+/* Class = "UIButton"; normalTitle = "Shoulder---"; ObjectID = "ivN-xT-Unr"; */
+"ivN-xT-Unr.normalTitle" = "Shoulder---";
+
+/* Class = "UILabel"; text = "Difficulty: 3"; ObjectID = "j0t-22-Dv6"; */
+"j0t-22-Dv6.text" = "Difficulty: 3";
+
+/* Class = "UILabel"; text = "100%"; ObjectID = "kvT-6Y-UkH"; */
+"kvT-6Y-UkH.text" = "100%";
+
+/* Class = "UITabBarItem"; title = "Gain HUB"; ObjectID = "mCd-Av-vlf"; */
+"mCd-Av-vlf.title" = "Gain HUB";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "qmh-Ou-bvg"; */
+"qmh-Ou-bvg.text" = "Detail";
+
+/* Class = "UIButton"; normalTitle = "Legs---"; ObjectID = "uXf-rc-LUF"; */
+"uXf-rc-LUF.normalTitle" = "Legs---";
+
+/* Class = "UIButton"; normalTitle = "DECREASE"; ObjectID = "vGv-Nh-CMZ"; */
+"vGv-Nh-CMZ.normalTitle" = "DECREASE";
+
+/* Class = "UITabBarItem"; title = "Quick Exercise"; ObjectID = "wvZ-dF-uwm"; */
+"wvZ-dF-uwm.title" = "Quick Exercise";
+
+/* Class = "UILabel"; text = "This application was developed by MAD4Swift group and is a part of the first assignment for Mobile Development II course"; ObjectID = "yGJ-M7-Ydd"; */
+"yGJ-M7-Ydd.text" = "This application was developed by MAD4Swift group and is a part of the first assignment for Mobile Development II course";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "yKq-uO-b0a"; */
+"yKq-uO-b0a.normalTitle" = "Start";
+
+/* Class = "UILabel"; text = "Required:"; ObjectID = "yr5-fa-M77"; */
+"yr5-fa-M77.text" = "Required:";
+
+/* Class = "UILabel"; text = "Description:"; ObjectID = "z2s-Sv-Ief"; */
+"z2s-Sv-Ief.text" = "Description:";
+
+/* Class = "UIButton"; normalTitle = "Back----------"; ObjectID = "zqk-l3-ElA"; */
+"zqk-l3-ElA.normalTitle" = "Back----------";

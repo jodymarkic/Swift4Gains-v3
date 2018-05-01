@@ -1,0 +1,117 @@
+
+/* Class = "UILabel"; text = "00:00"; ObjectID = "2fw-If-7LG"; */
+"2fw-If-7LG.text" = "00:00";
+
+/* Class = "UIButton"; normalTitle = "----------Chest"; ObjectID = "5Ih-qK-egr"; */
+"5Ih-qK-egr.normalTitle" = "----------Груди";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "5ai-vj-G4G"; */
+"5ai-vj-G4G.text" = "Hаслов";
+
+/* Class = "UINavigationItem"; title = "Gain HUB"; ObjectID = "6Fd-GG-Mvf"; */
+"6Fd-GG-Mvf.title" = "Гаин ХУБ";
+
+/* Class = "UIButton"; normalTitle = "SET"; ObjectID = "A5x-aV-o1s"; */
+"A5x-aV-o1s.normalTitle" = "ПОСТАВИ";
+
+/* Class = "UILabel"; text = "Exercise Timer:"; ObjectID = "ANv-en-lh8"; */
+"ANv-en-lh8.text" = "Штоперица:";
+
+/* Class = "UIButton"; normalTitle = "Add Exercise"; ObjectID = "C0k-5p-Ebq"; */
+"C0k-5p-Ebq.normalTitle" = "Додај вежбу";
+
+/* Class = "UIButton"; normalTitle = "About"; ObjectID = "EfV-6X-lMo"; */
+"EfV-6X-lMo.normalTitle" = "О томе";
+
+/* Class = "UILabel"; text = "Number of Sets"; ObjectID = "Gmo-Zs-DKe"; */
+"Gmo-Zs-DKe.text" = "Број cерија";
+
+/* Class = "UILabel"; text = "Please Select An Option:"; ObjectID = "Jxi-MC-dh8"; */
+"Jxi-MC-dh8.text" = "Изаберите опцију:";
+
+/* Class = "UIButton"; normalTitle = "Begin Workout!"; ObjectID = "Kb9-Ng-iv8"; */
+"Kb9-Ng-iv8.normalTitle" = "Започните тренинг!";
+
+/* Class = "UIButton"; normalTitle = "Add Exercise"; ObjectID = "Lel-UV-wfO"; */
+"Lel-UV-wfO.normalTitle" = "Додај Bезбу";
+
+/* Class = "UIButton"; normalTitle = "Add Workout"; ObjectID = "Mec-q3-1DY"; */
+"Mec-q3-1DY.normalTitle" = "Додај Tренинг";
+
+/* Class = "UIButton"; normalTitle = "Edit Workouts"; ObjectID = "P62-jX-CHV"; */
+"P62-jX-CHV.normalTitle" = "Исправи Tренинг";
+
+/* Class = "UILabel"; text = "About"; ObjectID = "QXn-gp-0Lq"; */
+"QXn-gp-0Lq.text" = "О томе";
+
+/* Class = "UIButton"; normalTitle = "Select a Workout!"; ObjectID = "SE2-gA-6aX"; */
+"SE2-gA-6aX.normalTitle" = "Изаберите тренинг!";
+
+/* Class = "UILabel"; text = "Exercise SET Tracker:"; ObjectID = "UPr-CS-7Xa"; */
+"UPr-CS-7Xa.text" = "Бројач Серија:";
+
+/* Class = "UIButton"; normalTitle = "----Biceps"; ObjectID = "URn-Yi-BjE"; */
+"URn-Yi-BjE.normalTitle" = "----Biceps";
+
+/* Class = "UIButton"; normalTitle = "Edit Exercises"; ObjectID = "YIn-fL-ie3"; */
+"YIn-fL-ie3.normalTitle" = "Коригујте везбе";
+
+/* Class = "UIViewController"; title = "About"; ObjectID = "Yjh-7O-xl6"; */
+"Yjh-7O-xl6.title" = "О томе";
+
+/* Class = "UILabel"; text = "Bench Press"; ObjectID = "ZI0-MY-6Te"; */
+"ZI0-MY-6Te.text" = "Bench Press";
+
+/* Class = "UIButton"; normalTitle = "Pause"; ObjectID = "cku-nB-1Zs"; */
+"cku-nB-1Zs.normalTitle" = "Паузирај";
+
+/* Class = "UIButton"; normalTitle = "Triceps---"; ObjectID = "dHh-9S-Hcg"; */
+"dHh-9S-Hcg.normalTitle" = "Трицепс---";
+
+/* Class = "UIButton"; normalTitle = "INCREASE"; ObjectID = "hBQ-rR-YQe"; */
+"hBQ-rR-YQe.normalTitle" = "ПОВЕЋАЈ";
+
+/* Class = "UILabel"; text = "Number of Sets:"; ObjectID = "hdI-2d-xI1"; */
+"hdI-2d-xI1.text" = "Број сетова:";
+
+/* Class = "UIButton"; normalTitle = "Reset"; ObjectID = "hwT-Xb-5ew"; */
+"hwT-Xb-5ew.normalTitle" = "Ресетуј";
+
+/* Class = "UIButton"; normalTitle = "Shoulder---"; ObjectID = "ivN-xT-Unr"; */
+"ivN-xT-Unr.normalTitle" = "Рамена---";
+
+/* Class = "UILabel"; text = "Difficulty: 3"; ObjectID = "j0t-22-Dv6"; */
+"j0t-22-Dv6.text" = "Тешкоћа: 3";
+
+/* Class = "UILabel"; text = "100%"; ObjectID = "kvT-6Y-UkH"; */
+"kvT-6Y-UkH.text" = "100%";
+
+/* Class = "UITabBarItem"; title = "Gain HUB"; ObjectID = "mCd-Av-vlf"; */
+"mCd-Av-vlf.title" = "Гаин ХУБ";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "qmh-Ou-bvg"; */
+"qmh-Ou-bvg.text" = "Детаљ";
+
+/* Class = "UIButton"; normalTitle = "Legs---"; ObjectID = "uXf-rc-LUF"; */
+"uXf-rc-LUF.normalTitle" = "Ноге ---";
+
+/* Class = "UIButton"; normalTitle = "DECREASE"; ObjectID = "vGv-Nh-CMZ"; */
+"vGv-Nh-CMZ.normalTitle" = "Умањи";
+
+/* Class = "UITabBarItem"; title = "Quick Exercise"; ObjectID = "wvZ-dF-uwm"; */
+"wvZ-dF-uwm.title" = "Брз тренинг";
+
+/* Class = "UILabel"; text = "This application was developed by MAD4Swift group and is a part of the first assignment for Mobile Development II course"; ObjectID = "yGJ-M7-Ydd"; */
+"yGJ-M7-Ydd.text" = "Ову апликацију је направила MAD4Swift група и она је део другог асајмента за Мобилни Девелопмент II курс";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "yKq-uO-b0a"; */
+"yKq-uO-b0a.normalTitle" = "Почетак";
+
+/* Class = "UILabel"; text = "Required:"; ObjectID = "yr5-fa-M77"; */
+"yr5-fa-M77.text" = "Потребан:";
+
+/* Class = "UILabel"; text = "Description:"; ObjectID = "z2s-Sv-Ief"; */
+"z2s-Sv-Ief.text" = "Опис:";
+
+/* Class = "UIButton"; normalTitle = "Back----------"; ObjectID = "zqk-l3-ElA"; */
+"zqk-l3-ElA.normalTitle" = "Леђа----------";
